@@ -9,7 +9,7 @@ function main() {
           kemunculanGenap += 1
       }
     }
-    console.log(`Raka mendapatkan angka ganjil sebanyaki ${kemunculanGanjil} kali dan angka genap sebanyak ${kemunculanGenap}`)
+    console.log(`Raka mendapatkan angka ganjil sebanyaki ${kemunculanGanjil} kali dan angka genap sebanyak ${kemunculanGenap} kali`)
 }
 main()
 
